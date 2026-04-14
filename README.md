@@ -1,4 +1,5 @@
-**[View document in Syncfusion Xamarin Knowledge base](https://www.syncfusion.com/kb/12143/how-to-work-with-listview-sflistview-and-expander-sfexpander-in-xamarin-forms)**
+# Work with Expander and ListView Xamarin
+This example demonstrates how to work with Expander and ListView Xamarin.
 
 ## Sample
 
@@ -49,3 +50,16 @@ public class ExtendedListView : SfListView
     }
 }
 ```
+
+**[View document in Syncfusion Xamarin Knowledge base](https://www.syncfusion.com/kb/12143/how-to-work-with-listview-sflistview-and-expander-sfexpander-in-xamarin-forms)**
+
+## Requirements to run the demo
+
+* [Visual Studio 2017](https://visualstudio.microsoft.com/downloads/) or [Visual Studio for Mac](https://visualstudio.microsoft.com/vs/mac/)
+* Xamarin add-ons for Visual Studio (available via the Visual Studio installer).
+
+## Troubleshooting
+
+### Path too long exception
+
+If you are facing path too long exception when building this example project, close Visual Studio and rename the repository to short and build the project.
